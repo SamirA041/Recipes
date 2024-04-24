@@ -1,8 +1,18 @@
-.ing{
+*{
     font-size: small;
     font-family: 'Courier New', Courier, monospace;
     color: black;
-    text-align: center;
+    align-content: center;
+
+}
+
+.box{
+
+    padding: 2px;
+    border: 1px;
+    margin: 10px;
+    box-sizing: border-box;
+    
 }
 
 .under{
